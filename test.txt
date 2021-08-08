@@ -1,1 +1,5 @@
-This is GIT test file
+
+This is GIT test fil
+Checking version
+This is version 1
+
